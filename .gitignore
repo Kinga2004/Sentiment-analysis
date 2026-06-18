@@ -201,6 +201,3 @@ pip-selfcheck.json
 # aclImdb
 
 aclImdb/
-
-/notebooks/mlruns/
-mlflow.db
